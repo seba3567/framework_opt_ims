@@ -1,3 +1,6 @@
+update LA.UM.8.2.1.r1-01400-sdm660.0
+
+
 This package provides access to IP Multimedia Subsystem (IMS) functionality,
 especially making and taking VoLTE calls using IMS.
 At the moment, this only supports VoLTE calls which is compliant to GSMA IR.92 specification.
